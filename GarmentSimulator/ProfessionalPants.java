@@ -7,7 +7,7 @@ public class ProfessionalPants implements Pants {
      */
     @Override
     public void wear() {
-        System.out.println("👖 Wearing tailored charcoal dress pants");
+        System.out.println("Wearing tailored charcoal dress pants");
     }
     
     /**
